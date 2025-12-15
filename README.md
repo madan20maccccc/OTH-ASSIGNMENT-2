@@ -23,10 +23,12 @@ activity_labels.txt
 ## ▶️ How to Run
 
 1. Download this GitHub repository.
-2. Upload the notebook and all `.txt` dataset files to **Google Colab**.
-3. Run the notebook **cell by cell from top to bottom**.
+2. Download **all three ZIP files** containing the dataset.
+3. **Unzip all files** so that the required `.txt` files are available.
+4. Upload the notebook and all extracted `.txt` files to **Google Colab**.
+5. Run the notebook **cell by cell from top to bottom**.
 
-All preprocessing, model training, evaluation, visualization, and comparisons will execute automatically.
+All preprocessing, model training, evaluation, visualization, and comparisons will run automatically.
 
 ---
 
