@@ -4,7 +4,13 @@ This repository contains the Google Colab notebook for **Assignment–2 (OTH)** 
 The project applies supervised and unsupervised machine learning techniques to classify human activities using smartphone sensor data.
 
 ---
+## 📘 Google Colab Notebook
 
+The complete implementation can be viewed and executed directly using the Google Colab link below:
+
+🔗 https://colab.research.google.com/drive/1a-sD1_HtuxFybmBCF2rTqGf1BUnVYZHV?usp=sharing
+
+---
 ## 📁 Dataset
 
 All required dataset files are included in this GitHub repository.
